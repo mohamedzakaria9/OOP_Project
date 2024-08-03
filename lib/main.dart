@@ -4,10 +4,7 @@ import 'SavingAccount.dart';
 import 'dart:io';
 
 void main() {
-<<<<<<< HEAD
-  
-}
-=======
+
   List<NormalAccount> normal = [];
 
   NormalAccount account1 = NormalAccount();
@@ -228,5 +225,3 @@ void myFun(List<NormalAccount> normal, List<SavingAccount> saving) {
     }
   }
 }
-
->>>>>>> zeka
